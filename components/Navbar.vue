@@ -15,9 +15,9 @@
 <style>
 .nav {
   display: flex;
-  justify-content: space-between; /* Separa el primer elemento del resto */
-  padding: 10px 20px; /* Añade un poco de espacio alrededor de la navbar */
-  background-color: #f8f9fa; /* Fondo claro para la navbar */
+  justify-content: space-between;  
+  padding: 10px 20px;    
+  background-color: #f8f9fa 
 }
 
 .nav-link {
@@ -32,8 +32,8 @@
 }
 
 .contact-button {
-  background-color: #007bff; /* Fondo azul */
-  color: white; /* Texto blanco */
+  background-color: #007bff;  
+  color: white;  
   border: none;
   padding: 5px 10px;
   cursor: pointer;
@@ -43,6 +43,6 @@
 }
 
 .contact-button:hover {
-  background-color: #0056b3; /* Color más oscuro al pasar el mouse */
+  background-color: #0056b3; 
 }
 </style>

@@ -72,7 +72,7 @@
     object-fit: cover;
   }
   
-  /* Estilos del switcher */
+  /* stilos pal  switcher */
   .switch {
     position: relative;
     display: inline-block;
@@ -119,7 +119,7 @@
     transform: translateX(14px);
   }
   
-  /* Estilos para la sección derecha */
+  /*stiling para la sección derecha */
   .right {
     flex: 1;
     display: flex;
@@ -133,7 +133,7 @@
     border-radius: 10px;
   }
   
-  /* Responsivo para tablet */
+  /* Responsive para tablet */  
   @media (max-width: 1024px) {
     .container {
       flex-direction: column;
@@ -160,7 +160,7 @@
     }
   }
   
-  /* Responsivo para móvil */
+  /* Responsivo para mobile*/
   @media (max-width: 600px) {
     .container {
       flex-direction: column;

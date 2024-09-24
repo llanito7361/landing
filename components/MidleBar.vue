@@ -1,3 +1,4 @@
+<!-- este lo hizo chatgpT xdxd -->
 <template>
   <div class="container">
     <div class="search-component">

@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-      <!-- Primer Bloque -->
+      <!-- primer bloque -->
       <div class="block first-block">
         <div class="text" style="order: 1;">
           <h2>La App de que que conecta prestigiosos psiquicos con usted a la palma de su mano</h2>
@@ -12,7 +12,7 @@
         </div>
       </div>
   
-      <!-- Segundo Bloque -->
+      <!-- segundo bloque -->
       <div class="block second-block">
         <div class="image" style="order: 1;">
           <!-- <img src="image2.jpg" alt="Imagen del Segundo Bloque" /> -->

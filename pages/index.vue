@@ -9,7 +9,6 @@
 import Bloque1 from '~/components/Bloque1.vue';
 import Bloque2 from '~/components/Bloque2.vue';
 import MidleBar from '~/components/MidleBar.vue';
-import Navbar from '~/components/Navbar.vue';
 
 export default {
   name: "CustomComponent"
